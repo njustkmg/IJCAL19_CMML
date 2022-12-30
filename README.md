@@ -4,6 +4,9 @@
 
 - 本项目基于 Paddle 框架复现论文 Comprehensive Semi-Supervised Multi-Modal Learning
 - 论文：[Comprehensive Semi-Supervised Multi-Modal Learning | IJCAI](https://www.ijcai.org/proceedings/2019/568)
+
+Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-2019)
+
 - 参考实现：https://github.com/njustkmg/IJCAI19_CMML
 
 ## 二、数据集
